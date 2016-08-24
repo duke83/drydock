@@ -3,7 +3,8 @@ node_modules
 dist
 frontend-dist
 coverage
-lib
+#temporarily allow lib into source contol to use it as a baseline for development.
+#lib
 
 # added by GitSavvy
 /npm-debug.log
